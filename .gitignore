@@ -1,0 +1,5 @@
+myenv
+model
+model/image_caption_model.pth
+_pycache_
+model/_pycache_
